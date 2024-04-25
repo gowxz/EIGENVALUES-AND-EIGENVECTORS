@@ -32,7 +32,8 @@ print("Eigenvalues are {} and Eigenvectors are {}".format(values,vector))
 ```
 
 ## Output:
-![Screenshot 2024-04-07 174246](https://github.com/Ayvak16122005/EIGENVALUES-AND-EIGENVECTORS/assets/147690197/3c01f40d-35e5-4a90-9c83-258814f203a2)
+![image](https://github.com/gowxz/EIGENVALUES-AND-EIGENVECTORS/assets/155504997/3bd91aef-08f8-495b-8304-5b9e38f834ed)
+
 
 ## Result:
 Thus the Eigenvalue and Eigenvector is successfully solved using python program
